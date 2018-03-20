@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: 2623165118@qq.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 朱立豪的博客, zhulihao, 读书, 摄影, 前端"
-url: "http://zhulihao965255.github.io"          # your host, for absolute URL
+url: "https://github.com/zhulihao965255/zhulihao965255.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/zhulihao965255/zhulihao965255.github.io.git" # you code repository
 
